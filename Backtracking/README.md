@@ -22,3 +22,6 @@ Return all possible palindrome partitioning of `s`.
 -Backtracking
 -Palindrome Checking
 -Substring manipulation
+
+
+ADITYA SATAPATHY
